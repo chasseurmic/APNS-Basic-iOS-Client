@@ -1,3 +1,3 @@
 # APNS Mobile Example iOS
 
-This is a very basic app to demonstrate how to deploy a full featured APNS solution. This app is a companion to the [apns_basic_server](https://github.com/chasseurmic/apns_basic_server), a Rails backend to register device tokens and send push notifications.
+This is a very basic app to demonstrate how to deploy a full featured APNS solution. This app is a companion to the [apns_basic_server](https://github.com/chasseurmic/apns_basic_server), a Rails backend to register device tokens and send push notifications. The full code explanation and tutorial can be found at [CocoaHunter's blog](http://www.cocoahunter.com/blog/2013/08/18/apns-pushing-the-limits-of-your-notifications/).
